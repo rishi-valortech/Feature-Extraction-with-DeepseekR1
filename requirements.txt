@@ -1,0 +1,7 @@
+langchain-ollama
+langchain 
+chromadb 
+gradio 
+ollama 
+# pymypdf
+langchain-community

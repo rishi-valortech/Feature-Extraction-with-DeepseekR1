@@ -1,0 +1,20 @@
+{
+    "Name": "Sarvesh Pujare",
+    "Age": 24,
+    "Hospital Name": "Jupiter Hospital",
+    "Diagnosis": "Displaced Radius Fracture",
+    "Salary": null,
+    "Location": "February 12",
+    "Policy ID": "HPX12345678",
+    "Claim ID": "CLM20240212002",
+    "Amount Paid": 275000,
+    "Amount Charged": 275000,
+    "Admit Date": "February 12, 2024",
+    "Discharge Date": "February 15, 2024",
+    "Surgery Performed": "Open Reduction and Internal Fixation (ORIF)",
+    "Medications": [
+        "Painkillers (Ibuprofen 400mg)",
+        "Antibiotics (Amoxicillin 500mg)",
+        "Calcium Supplements for Bone Healing"
+    ]
+}
